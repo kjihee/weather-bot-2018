@@ -1,0 +1,8 @@
+{"mydb":[
+  {"host":"db-bot.cclpjndcl6jl.ap-northeast-2.rds.amazonaws.com"},
+  {"db_id":"ime_db"},
+  {"db_password":"imedb2018"},
+  {"db_name":"test_db"},
+  {"port":3306}
+]}
+
