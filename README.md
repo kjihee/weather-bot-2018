@@ -10,7 +10,7 @@
 1. Data 출처
   - [날씨](http://www.weather.go.kr/weather/forecast/mid-term_01.jsp) 
   - [미세먼지](http://aqicn.org/city/seoul/kr/)
-  - [축제](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80+%EC%98%88%EB%B3%B4&oquery=%EB%B6%88%EB%B9%9B%EC%B6%95%EC%A0%9C&tqi=Tx5g4lpySDlssvdRMFCssssstel-169822)
+  - [축제](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%EC%B6%95%EC%A0%9C)
 2. 서비스 기능
   - 날씨 조회
   - 미세먼지 조회
